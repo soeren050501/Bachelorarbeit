@@ -1,2 +1,2 @@
-# Bachelorarbeit
-R-Code meiner Bachelorarbeit
+# Kanonische Korrelationsanalyse
+Am Beispiel von Automobil-Bewertungskriterien
