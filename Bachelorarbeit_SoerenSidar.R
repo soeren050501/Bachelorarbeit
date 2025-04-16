@@ -1,3 +1,7 @@
+#Bachelorarbeit
+#Sören Sidar
+#Kanonische Korrelationsanalyse am Beispiel von Automobilbewertungskriterien
+
 setwd("C:/Users/soere/Documents/Studium/Düsseldorf/Bachelorarbeit")
 load("~/Studium/Düsseldorf/Bachelorarbeit/Bewertung_Automarken.RData")
 
